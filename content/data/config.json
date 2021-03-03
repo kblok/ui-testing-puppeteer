@@ -1,7 +1,7 @@
 {
     "title": "UI Testing with Puppeteer",
     "path_prefix": "/",
-    "layout_type": "full-width",
+    "layout_type": "boxed",
     "style": "classic",
     "palette": "gray",
     "mode": "light",
